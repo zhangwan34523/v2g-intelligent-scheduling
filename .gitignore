@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+*.log
+results/experiment_log.txt
+.DS_Store
